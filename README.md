@@ -8,10 +8,10 @@ Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.
 NRC: 8702   
 Fecha: 2020 - 08 - 25  
 
-1.- PLANTEAMIENTO DEL PROBLEMA:
+1.- *PLANTEAMIENTO DEL PROBLEMA:
 
 
-2.- OBJETIVOS:
+2.- *OBJETIVOS:
 
 * General: 
 
@@ -33,9 +33,22 @@ Fecha: 2020 - 08 - 25
 3- Identificar un capacitor en AC y DC.
 
 
-3.- MARCO TEORICO:
+3.- *MARCO TEORICO:
+
+* Capacitores:
+
+Elemento pasivo (distribuye energía), coformado por dos placas conductoras separadas una distancia d, cuyo espacio es ocupado por un material aislante.
+Los capacitores permiten almacenar energía. Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
+Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad.
 
 
+La capacitancia de un capacitor, será directamente proporcional al área de las placas (cargadas) e inversamente proporcional a la distancia entre aquellas placas.
+
+Existen dos tipo de capacitores, variables y fijos. Los capacitores variables se usan en radiorreceptores que permiten sintonizar varias estaciones. Por otra parte, un capacitro de valor fijo, es el conocimo comúnmente, el cual puede estar hecho de poliéster, cerámica y electrlpitico.
+Para identificar si un capacitor se carga o no, se tiene en cuenta la convención de signos.
+Se dice que el capacitor se carga si:
+
+Se dice que el capacitor se descarga si:
 
 
 4.- DIAGRAMAS:
