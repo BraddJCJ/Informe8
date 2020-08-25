@@ -11,7 +11,7 @@ Fecha: 2020 - 08 - 25
 1.- *PLANTEAMIENTO DEL PROBLEMA*:
 
 
-2.- *OBJETIVOS:
+2.- *OBJETIVOS:*
 
 * General: 
 
@@ -33,7 +33,7 @@ Fecha: 2020 - 08 - 25
 3- Identificar un capacitor en AC y DC.
 
 
-3.- *MARCO TEORICO:
+3.- *MARCO TEORICO:*
 
 * Capacitores:
 
@@ -51,27 +51,26 @@ Se dice que el capacitor se carga si:
 Se dice que el capacitor se descarga si:
 
 
-4.- DIAGRAMAS:
+4.- *DIAGRAMAS:*
 
 
 
-5.- LISTA DE COMPONENTES:
+5.- *LISTA DE COMPONENTES:*
 
 
 
  
-6.- CONCLUSIONES:
+6.- *CONCLUSIONES:*
 
 
-7.- RECOMENDACIONES:
+7.- *RECOMENDACIONES:*
 
 
-8.- CRONOGRAMA:
+8.- *CRONOGRAMA:*
 
 
-9.- BIBLIOGRAFIA
+9.- *BIBLIOGRAFIA*
  
 
-
- 10.-ANEXOS:
+10.- *ANEXOS:*
  
