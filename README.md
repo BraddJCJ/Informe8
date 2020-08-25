@@ -76,7 +76,7 @@ Un inductor también dispone de una resistencia y un capacitor, el cual es gener
 
 5.- *LISTA DE COMPONENTES:*
 
-
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Matriales.png)
 
  
 6.- *CONCLUSIONES:*
