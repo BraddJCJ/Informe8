@@ -41,7 +41,7 @@ Elemento pasivo (distribuye energía), coformado por dos placas conductoras sepa
 Los capacitores sirven para pasar ca, cambiar de fase, almacenar energía, encender motores y suprimir ruidos.
 Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
 
-Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad.
+Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad, con unidades en Faradios(F).
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/q'Cv.png)
 
@@ -58,6 +58,9 @@ Se dice que el capacitor se descarga si:
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Descarg.Cap.png)
 
 * Inductores
+Elemento pasivo, capaz de almacenar energía en su campo magnético. Conformado por una bobina de alambre conductor. La tensión de un inductor es proporcional a la rapidez de la transformación de corriente. L se conoce como Inductancia - constante de proporcionalidad, con unidades den Henrys (H).
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tension-Rapidz.png)
 
 
 
