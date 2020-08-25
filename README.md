@@ -8,7 +8,7 @@ Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.
 NRC: 8702   
 Fecha: 2020 - 08 - 25  
 
-1.- *PLANTEAMIENTO DEL PROBLEMA:
+1.- *PLANTEAMIENTO DEL PROBLEMA*:
 
 
 2.- *OBJETIVOS:
