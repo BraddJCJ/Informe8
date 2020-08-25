@@ -41,12 +41,14 @@ Elemento pasivo (distribuye energía), coformado por dos placas conductoras sepa
 Los capacitores sirven para pasar ca, cambiar de fase, almacenar energía, encender motores y suprimir ruidos.
 Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
 
-Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad, con unidades en Faradios(F).
+Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad, con unidades en Faradios(F). El valor de un capacitor puede variar entre los microF a los picoF.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/q'Cv.png)
 
 La capacitancia de un capacitor, será directamente proporcional al área de las placas (cargadas) e inversamente proporcional a la distancia entre aquellas placas.
 Existen dos tipo de capacitores, variables y fijos. Los capacitores variables se usan en radiorreceptores que permiten sintonizar varias estaciones. Por otra parte, un capacitro de valor fijo, es el conocimo comúnmente, el cual puede estar hecho de poliéster, cerámica y electrlpitico.
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/CfijOvar.png)
 
 Para identificar si un capacitor se carga o no, se tiene en cuenta la convención de signos.
 Se dice que el capacitor se carga si:
@@ -58,7 +60,7 @@ Se dice que el capacitor se descarga si:
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Descarg.Cap.png)
 
 * Inductores
-Elemento pasivo, capaz de almacenar energía en su campo magnético. Conformado por una bobina de alambre conductor. La tensión de un inductor es proporcional a la rapidez de la transformación de corriente. L se conoce como Inductancia - constante de proporcionalidad, con unidades den Henrys (H).
+Elemento pasivo, capaz de almacenar energía en su campo magnético. Conformado por una bobina de alambre conductor. La tensión de un inductor es proporcional a la rapidez de la transformación de corriente. L se conoce como Inductancia - constante de proporcionalidad, con unidades den Henrys (H), la misma que depende de sus dimensiones y composición física. El valor de un indictor puede variar entre los microH a decenas de H.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tension-Rapidz.png)
 
