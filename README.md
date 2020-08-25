@@ -38,7 +38,8 @@ Fecha: 2020 - 08 - 25
 * Capacitores:
 
 Elemento pasivo (distribuye energía), coformado por dos placas conductoras separadas una distancia d, cuyo espacio es ocupado por un material aislante.
-Los capacitores permiten almacenar energía. Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
+Los capacitores sirven para pasar ca, cambiar de fase, almacenar energía, encender motores y suprimir ruidos.
+Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
 
 Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad.
 
@@ -55,6 +56,11 @@ Se dice que el capacitor se carga si:
 Se dice que el capacitor se descarga si:
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Descarg.Cap.png)
+
+* Inductores
+
+
+
 
 4.- *DIAGRAMAS:*
 
