@@ -59,12 +59,15 @@ Se dice que el capacitor se descarga si:
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Descarg.Cap.png)
 
-* Inductores
+* Inductores:
+
 Elemento pasivo, capaz de almacenar energía en su campo magnético. Conformado por una bobina de alambre conductor. La tensión de un inductor es proporcional a la rapidez de la transformación de corriente. L se conoce como Inductancia - constante de proporcionalidad, con unidades den Henrys (H), la misma que depende de sus dimensiones y composición física. El valor de un indictor puede variar entre los microH a decenas de H.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tension-Rapidz.png)
 
+Un inductor también dispone de una resistencia y un capacitor, el cual es generado por su devanado y se les atribuye el nombre de resistencia de devanado y capacitancia de devanado. Estos valores son ignorados puesto que sus valores son muy reducidos por una baja frecuancia. A frecuencias más altas, estos valores son significativos.
 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/L.devanado.png)
 
 
 4.- *DIAGRAMAS:*
