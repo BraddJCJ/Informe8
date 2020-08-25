@@ -16,16 +16,22 @@ Fecha: 2020 - 08 - 25
 * General: 
 
 1- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
 2- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
 3- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
 4- Familiarizarse con el uso de instrumentos de medida.
 
 
 * Específico:
 
 1- Comparar los valores obtenidos analíicamente con los medidos en la simulación.
-2- Indentificar una bobina en AC y DC
-3- Identificar un capacitor en AC y DC
+
+2- Indentificar una bobina en AC y DC.
+
+3- Identificar un capacitor en AC y DC.
+
 
 3.- MARCO TEORICO:
 
