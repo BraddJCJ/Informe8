@@ -2,11 +2,11 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
 
-¨Práctica de Laboratorio N°7 Características de la Onda Senoidal¨ - 
+¨Práctica de Laboratorio N°8 Indcuctor y Capacitor¨ - 
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
 NRC: 8702   
-Fecha: 2020 - 08 - 19  
+Fecha: 2020 - 08 - 25  
 
 1.- PLANTEAMIENTO DEL PROBLEMA:
 
