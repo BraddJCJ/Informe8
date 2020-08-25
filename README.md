@@ -39,17 +39,22 @@ Fecha: 2020 - 08 - 25
 
 Elemento pasivo (distribuye energía), coformado por dos placas conductoras separadas una distancia d, cuyo espacio es ocupado por un material aislante.
 Los capacitores permiten almacenar energía. Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
+
 Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad.
 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/q'Cv.png)
 
 La capacitancia de un capacitor, será directamente proporcional al área de las placas (cargadas) e inversamente proporcional a la distancia entre aquellas placas.
-
 Existen dos tipo de capacitores, variables y fijos. Los capacitores variables se usan en radiorreceptores que permiten sintonizar varias estaciones. Por otra parte, un capacitro de valor fijo, es el conocimo comúnmente, el cual puede estar hecho de poliéster, cerámica y electrlpitico.
+
 Para identificar si un capacitor se carga o no, se tiene en cuenta la convención de signos.
 Se dice que el capacitor se carga si:
 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/cargaDeCap.png)
+
 Se dice que el capacitor se descarga si:
 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Descarg.Cap.png)
 
 4.- *DIAGRAMAS:*
 
