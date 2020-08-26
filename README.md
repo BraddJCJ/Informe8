@@ -100,6 +100,8 @@ Circuito 2.-
 
 8.- *CRONOGRAMA:*
 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/crOONO.png)
+
 
 9.- *BIBLIOGRAFIA*
 - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
