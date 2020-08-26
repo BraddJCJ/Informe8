@@ -83,8 +83,12 @@ Un inductor también dispone de una resistencia y un capacitor, el cual es gener
 6.- *CONCLUSIONES:*
 
 
+
 7.- *RECOMENDACIONES:*
 
+-Se recomienda realizar bien las conexiones con el osciloscopio para obtener una medición correcta para los valores de V.
+
+-Esnecesario identificar los canales y ”ejes” en la manipulación del osciloscopio para analizar el comportamiento de los elementos en ca y cd.
 
 8.- *CRONOGRAMA:*
 
