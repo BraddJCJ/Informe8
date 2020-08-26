@@ -95,4 +95,19 @@ Un inductor también dispone de una resistencia y un capacitor, el cual es gener
  
 
 10.- *ANEXOS:*
- 
+
+Preguntas
+1.- Justifique los errores cometidos en las mediciones. 
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+
+3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
+
+4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
+
+Los valores (modulo) de la corriente y del voltaje cambiarían, pero fuera de eso el comportamiento del circuito seria el mismo ya que estas bobinas o capacitores están en paralelo y a la final lo que se va a tener es una bobina o capacitor equivalente.
+
+5.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+El valor RMS o valor eficaz es el valor del voltaje o corriente alterna que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente, en corriente continua sobre una misma resistencia.
+
