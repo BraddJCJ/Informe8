@@ -123,6 +123,11 @@ Preguntas
 
 3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 
+- Capacitor: Es un almacenamiento de carga o voltaje en un tiempo t, donde al cargarse completamente no pasara corriente.
+-Inductor: Es un almacenamiento de corriente electrica en un tiempo t, donde al cargarse completamente no habra una caida de tensión.
+
+Ambas pueden volverse fuentes para sustituir a las diferentes fuentes del circuito. Oscilan entre cargarse y descargarse, nos permite crear fuentes mas estables para cada una.
+
 4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
 
 Los valores (modulo) de la corriente y del voltaje cambiarían, pero fuera de eso el comportamiento del circuito seria el mismo ya que estas bobinas o capacitores están en paralelo y a la final lo que se va a tener es una bobina o capacitor equivalente.
@@ -133,12 +138,36 @@ El valor RMS o valor eficaz es el valor del voltaje o corriente alterna que prod
 
 Analisis de Resultados:
 
-1- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multimetro y las calculadas en el trabajo preparatorio. Compare y comente os resultados obtenidps tomando en cuenta las distintas frecuencias utilizadas.
+1- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multimetro y las calculadas en el trabajo preparatorio. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Condensadores.jpg)
 
+- Comentario: En la tabla de condensadores, nosostros podemos notar como el voltaje disminuye con respecto al aumento de la corriente mientras se varia el la frecuencia entre los valores de 0 - 1000. Ademas de esto apreciamos como los valores de voltaje Vpp es sumamente diferente al Voltaje Vrms
+
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Inductores.jpg)
+
+- Comentario: En la tabla de inductores, nosotros podemos notar como el voltaje aumenta mientras la corriente disminuye mientras se varia la frecuencia entre los valores de 0 - 1000. Ademas de esto apreciamos como los valores de voltaje Vpp es sumamente diferente al Voltaje Vrms
 
 2.- En cada uno de los circuitos anteriores utilice los resultados de las mediciones de corriente y voltaje realizados con el multimetro para calcular la reactancia x=vo/I en cada una de las frecuencias y tambien para calcular los valores de Leq y ceq según sea el caso. Anote los resultados en una tabla haciendo constar tambien las frecuencias. Comente los resultados.
 
+- Reactancia Condensadores:
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/rec.Con.jpg)
 
+- Reactancia Inductores:
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/rec.Ind.jpg)
+
+- Equivalenciad de capacitores e inductores:
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/equivalencias.jpg)
+
+Simulaciones:
+- Capacitores:
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/0hz-C.png)
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/10hz-C.png)
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/1000hz-C.png)
+
+-Inductores:
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/0hz-I.png)
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/10hz-I.png)
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/1000hz-I.png)
