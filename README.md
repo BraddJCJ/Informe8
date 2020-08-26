@@ -82,7 +82,13 @@ Un inductor también dispone de una resistencia y un capacitor, el cual es gener
  
 6.- *CONCLUSIONES:*
 
+-Los valores obtenidos por el amperímetro en ac reempresentan los valores de pico máximo en el flujo de la corriente.
 
+-Los valores medidos por el voltímetro en dc corresponde al valor eficaz del voltaje.
+
+-Puesto que hay variaciones ”debido a las osculaciones” del flujo de corriente y voltaje en ac, los medidores en dc dividen los puntos máximos sobre la raiz de 2, para llegar a un valor eficaz para la capacitancia.
+
+-La tensión que fluye por un circuito con un capacitor es retrasada con respecto a la corriente, debido al capacitor, el cual se carga y no permite el flujo de tensión si no es cargado completamente.
 
 7.- *RECOMENDACIONES:*
 
