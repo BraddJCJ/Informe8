@@ -148,7 +148,8 @@ Analisis de Resultados:
 
 - Comentario: En la tabla de inductores, nosotros podemos notar como el voltaje aumenta mientras la corriente disminuye mientras se varia la frecuencia entre los valores de 0 - 1000. Ademas de esto apreciamos como los valores de voltaje Vpp es sumamente diferente al Voltaje Vrms
 
-![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Vrms.PNG)  ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/error.PNG) 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Vrms.PNG)  
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/error.PNG) 
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tabla%20cap.PNG)
 - Error Vrms condensadores.
