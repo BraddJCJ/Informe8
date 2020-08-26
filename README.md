@@ -6,7 +6,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
 NRC: 8702   
-Fecha: 2020 - 08 - 25  
+Fecha: 2020 - 08 - 26  
 
 1.- *PLANTEAMIENTO DEL PROBLEMA*:
 
