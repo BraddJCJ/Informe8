@@ -10,7 +10,7 @@ Fecha: 2020 - 08 - 25
 
 1.- *PLANTEAMIENTO DEL PROBLEMA*:
 
-¿La implementación de un capacitor o una bobina en un circuito, puede llegar a afectar en algo en el flujo de correinte y volytaje?¿En caso de que si afecte al circuito implementar uno de estos componentes pasivos, que significaría ese cambio?¿De qué sirve implementar un capacitor en un circuito?
+¿La implementación de un capacitor o una bobina en un circuito, puede llegar a afectar en algo en el flujo de correinte y voltaje?¿En caso de que si afecte al circuito , que significado tiene este cambio?¿De qué sirve implementar un capacitor en un circuito?
 
 2.- *OBJETIVOS:*
 
