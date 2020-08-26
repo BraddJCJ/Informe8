@@ -72,11 +72,7 @@ Un inductor también dispone de una resistencia y un capacitor, el cual es gener
 
 4.- *DIAGRAMAS:*
 
-Circuito 1.-
-![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/D7c.png)
 
-Circuito 2.-
-![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/D7i.png)
 
 5.- *LISTA DE COMPONENTES:*
 
@@ -104,6 +100,9 @@ Preguntas
 1.- Justifique los errores cometidos en las mediciones. 
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+
+- CAPACITOR: Al cargarse completamente estos actuan como un circuito abierto.
+- INDUCTOR: Al cargarse completamente estos actuan como un cortocircuito.
 
 3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 
