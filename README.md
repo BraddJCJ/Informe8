@@ -10,7 +10,7 @@ Fecha: 2020 - 08 - 26
 
 1.- *PLANTEAMIENTO DEL PROBLEMA*:
 
-¿La implementación de un capacitor o una bobina en un circuito, puede llegar a afectar en algo en el flujo de correinte y voltaje?¿En caso de que si afecte al circuito , que significado tiene este cambio?¿De qué sirve implementar un capacitor en un circuito?
+¿La implementación de un capacitor o una bobina en un circuito, puede llegar a afectar en algo en el flujo de corriente y voltaje? ¿En caso de que, sí afecte al circuito, qué significado tiene este cambio? ¿De qué sirve implementar un capacitor en un circuito?
 
 2.- *OBJETIVOS:*
 
@@ -22,14 +22,13 @@ Fecha: 2020 - 08 - 26
 
 3- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 
-4- Familiarizarse con el uso de instrumentos de medida.
-
+4- Familiarizarse con el uso de instrumentos de medida. 
 
 * Específico:
 
 1- Comparar los valores obtenidos analíicamente con los medidos en la simulación.
 
-2- Indentificar una bobina en AC y DC.
+2- Identificar una bobina en AC y DC.
 
 3- Identificar un capacitor en AC y DC.
 
@@ -38,16 +37,12 @@ Fecha: 2020 - 08 - 26
 
 * Capacitores:
 
-Elemento pasivo (distribuye energía), coformado por dos placas conductoras separadas una distancia d, cuyo espacio es ocupado por un material aislante.
-Los capacitores sirven para pasar ca, cambiar de fase, almacenar energía, encender motores y suprimir ruidos.
-Su implementación en un circuito, permite proteger al resto del circuito de picos altos de enrgía de una correinte ca capaz de dañar a los elemtos de un circuito.
-
-Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad, con unidades en Faradios(F). El valor de un capacitor puede variar entre los microF a los picoF.
+Elemento pasivo (distribuye energía), conformado por dos placas conductoras separadas una distancia d, cuyo espacio es ocupado por un material aislante. Los capacitores sirven para pasar ca, cambiar de fase, almacenar energía, encender motores y suprimir ruidos. Su implementación en un circuito permite proteger al resto del circuito de picos altos de energía de una corriente ca capaz de dañar a los elementos de un circuito.
+Un capacitor contiene una carga q, la cual es directamente proporcional a la diferencia de potencial (tensión). C es la Capacitancia-constante de proporcionalidad, con unidades en Faradios (F). El valor de un capacitor puede variar entre los microF a los picoF.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/q'Cv.png)
 
-La capacitancia de un capacitor, será directamente proporcional al área de las placas (cargadas) e inversamente proporcional a la distancia entre aquellas placas.
-Existen dos tipo de capacitores, variables y fijos. Los capacitores variables se usan en radiorreceptores que permiten sintonizar varias estaciones. Por otra parte, un capacitro de valor fijo, es el conocimo comúnmente, el cual puede estar hecho de poliéster, cerámica y electrlpitico.
+La capacitancia de un capacitor será directamente proporcional al área de las placas (cargadas) e inversamente proporcional a la distancia entre aquellas placas. Existen dos tipos de capacitores, variables y fijos. Los capacitores variables se usan en radiorreceptores que permiten sintonizar varias estaciones. Por otra parte, un capacitor de valor fijo es el conocido comúnmente, el cual puede estar hecho de poliéster, cerámica y electrolítico.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/CfijOvar.png)
 
@@ -62,11 +57,11 @@ Se dice que el capacitor se descarga si:
 
 * Inductores:
 
-Elemento pasivo, capaz de almacenar energía en su campo magnético. Conformado por una bobina de alambre conductor. La tensión de un inductor es proporcional a la rapidez de la transformación de corriente. L se conoce como Inductancia - constante de proporcionalidad, con unidades den Henrys (H), la misma que depende de sus dimensiones y composición física. El valor de un indictor puede variar entre los microH a decenas de H.
+Elemento pasivo, capaz de almacenar energía en su campo magnético. Conformado por una bobina de alambre conductor. La tensión de un inductor es proporcional a la rapidez de la transformación de corriente. L se conoce como Inductancia - constante de proporcionalidad, con unidades de Henrio (H), la misma que depende de sus dimensiones y composición física. El valor de un inductor puede variar entre los microH a decenas de H.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tension-Rapidz.png)
 
-Un inductor también dispone de una resistencia y un capacitor, el cual es generado por su devanado y se les atribuye el nombre de resistencia de devanado y capacitancia de devanado. Estos valores son ignorados puesto que sus valores son muy reducidos por una baja frecuancia. A frecuencias más altas, estos valores son significativos.
+Un inductor también dispone de una resistencia y un capacitor, el cual es generado por su devanado y se les atribuye el nombre de resistencia de devanado y capacitancia de devanado. Estos valores son ignorados puesto que sus valores son muy reducidos por una baja frecuencia. A frecuencias más altas, estos valores son significativos.
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/L.devanado.png)
 
@@ -88,19 +83,20 @@ Circuito 2.-
  
 6.- *CONCLUSIONES:*
 
--Los valores obtenidos por el amperímetro en ac reempresentan los valores de pico máximo en el flujo de la corriente.
+- Los valores obtenidos por el amperímetro en ac representan los valores de pico máximo en el flujo de la corriente.
 
--Los valores medidos por el voltímetro en dc corresponde al valor eficaz del voltaje.
+- Los valores medidos por el voltímetro en DC corresponde al valor eficaz del voltaje.
 
--Puesto que hay variaciones ”debido a las osculaciones” del flujo de corriente y voltaje en ac, los medidores en dc dividen los puntos máximos sobre la raiz de 2, para llegar a un valor eficaz para la capacitancia.
+- Puesto que hay variaciones debido a las oscilaciones del flujo de corriente y voltaje en ac, los medidores en DC dividen los puntos máximos sobre la raíz de 2, para llegar a un valor eficaz para la capacitancia.
 
--La tensión que fluye por un circuito con un capacitor es retrasada con respecto a la corriente, debido al capacitor, el cual se carga y no permite el flujo de tensión si no es cargado completamente.
+- La tensión que fluye por un circuito con un capacitor es retrasada con respecto a la corriente, debido al capacitor, el cual se carga y no permite el flujo de tensión si no es cargado completamente.
 
 7.- *RECOMENDACIONES:*
 
--Se recomienda realizar bien las conexiones con el osciloscopio para obtener una medición correcta para los valores de V.
+- Se recomienda realizar bien las conexiones con el osciloscopio para obtener una medición correcta para los valores de V.
 
--Esnecesario identificar los canales y ”ejes” en la manipulación del osciloscopio para analizar el comportamiento de los elementos en ca y cd.
+- Es necesario identificar los canales y “ejes” en la manipulación del osciloscopio para analizar el comportamiento de los elementos en ca y cd.
+
 
 8.- *CRONOGRAMA:*
 
@@ -118,13 +114,13 @@ Preguntas
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
 
-- CAPACITOR: Al cargarse completamente estos actuan como un circuito abierto.
-- INDUCTOR: Al cargarse completamente estos actuan como un cortocircuito.
+- CAPACITOR: Al cargarse completamente estos actúan como un circuito abierto.
+- INDUCTOR: Al cargarse completamente estos actúan como un cortocircuito.
 
 3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 
 - Capacitor: Es un almacenamiento de carga o voltaje en un tiempo t, donde al cargarse completamente no pasara corriente.
--Inductor: Es un almacenamiento de corriente electrica en un tiempo t, donde al cargarse completamente no habra una caida de tensión.
+- Inductor: Es un almacenamiento de corriente electrica en un tiempo t, donde al cargarse completamente no habrá una caida de tensión.
 
 Ambas pueden volverse fuentes para sustituir a las diferentes fuentes del circuito. Oscilan entre cargarse y descargarse, nos permite crear fuentes mas estables para cada una.
 
