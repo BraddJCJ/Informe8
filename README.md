@@ -112,6 +112,8 @@ Circuito 2.-
 Preguntas
 1.- Justifique los errores cometidos en las mediciones. 
 
+El error más común se da al tomar el valor del voltaje pico con el osciloscopio ya que hay que hacerlo manualmente utilizando la gráfica y la configuración del osciloscopio.
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
 
 - CAPACITOR: Al cargarse completamente estos actúan como un circuito abierto.
