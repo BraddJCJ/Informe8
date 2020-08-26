@@ -151,15 +151,19 @@ Analisis de Resultados:
 2.- En cada uno de los circuitos anteriores utilice los resultados de las mediciones de corriente y voltaje realizados con el multimetro para calcular la reactancia x=vo/I en cada una de las frecuencias y tambien para calcular los valores de Leq y ceq según sea el caso. Anote los resultados en una tabla haciendo constar tambien las frecuencias. Comente los resultados.
 
 - Reactancia Condensadores:
+
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/rec.Con.jpg)
 
 - Reactancia Inductores:
+
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/rec.Ind.jpg)
 
 - Equivalenciad de capacitores e inductores:
+
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/equivalencias.jpg)
 
 Simulaciones:
+
 - Capacitores:
 
 ![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/0hz-C.png)
