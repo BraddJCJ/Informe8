@@ -148,6 +148,14 @@ Analisis de Resultados:
 
 - Comentario: En la tabla de inductores, nosotros podemos notar como el voltaje aumenta mientras la corriente disminuye mientras se varia la frecuencia entre los valores de 0 - 1000. Ademas de esto apreciamos como los valores de voltaje Vpp es sumamente diferente al Voltaje Vrms
 
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/error.PNG)
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tabla%20cap.PNG)
+- Error Vrms condensadores.
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/tabla%20ind.PNG)
+- Error Vrms inductores.
+
 2.- En cada uno de los circuitos anteriores utilice los resultados de las mediciones de corriente y voltaje realizados con el multimetro para calcular la reactancia x=vo/I en cada una de las frecuencias y tambien para calcular los valores de Leq y ceq según sea el caso. Anote los resultados en una tabla haciendo constar tambien las frecuencias. Comente los resultados.
 
 - Reactancia Condensadores:
