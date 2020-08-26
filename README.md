@@ -131,3 +131,14 @@ Los valores (modulo) de la corriente y del voltaje cambiarían, pero fuera de es
 
 El valor RMS o valor eficaz es el valor del voltaje o corriente alterna que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente, en corriente continua sobre una misma resistencia.
 
+Analisis de Resultados:
+
+1- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio, multimetro y las calculadas en el trabajo preparatorio. Compare y comente os resultados obtenidps tomando en cuenta las distintas frecuencias utilizadas.
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Condensadores.jpg)
+
+![](https://github.com/BraddJCJ/Informe8/blob/master/Img.I.8/Inductores.jpg)
+
+2.- En cada uno de los circuitos anteriores utilice los resultados de las mediciones de corriente y voltaje realizados con el multimetro para calcular la reactancia x=vo/I en cada una de las frecuencias y tambien para calcular los valores de Leq y ceq según sea el caso. Anote los resultados en una tabla haciendo constar tambien las frecuencias. Comente los resultados.
+
+
